@@ -1,3 +1,5 @@
-// Define the numbers and the operation here
+let three = 3;
+let five = 5;
+let Operation;
 
-// Write if-statements here
+if ((operation = "+")) console.log(`${three} + ${five} = ` + (three + five));
